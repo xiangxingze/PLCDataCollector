@@ -30,7 +30,7 @@ PLCDataCollector 是一个基于.NET Core开发的工业自动化数据采集系
 ## 快速开始
 
 ### 环境要求
-- .NET Core 6.0+
+- .NET 9
 - SQL Server
 - Visual Studio 2019+
 
